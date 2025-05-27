@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=../SFML-3.0.0/lib && ./test.exe
